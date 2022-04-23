@@ -1,5 +1,7 @@
 # Horiseon - Marketing Agency: Code Refactor
 
+## Description
+
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
 For this week's Challenge, my task was to refactor an existing webpage to make it accessible and to improve SEO. It's was important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
@@ -7,6 +9,16 @@ For this week's Challenge, my task was to refactor an existing webpage to make i
 To impress the imaginary client for this Challenge, I went the extra mile and improves their codebase for long-term sustainability. I ensured that all links are functioning correctly and clean up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
 It was essential to read the acceptance criteria for guidance and clarity on what the client expects, especially when asked to make a judgment call, such as when an icon needs an accessible alt tag and when it is okay to leave it blank.
+
+
+## Table of Contents
+
+* [User-Story](#User Story)
+* [Acceptance-Criteria](#Acceptance Criteria)
+* [Review](#Review)
+* [Screenshot](#Screenshot)
+* [License](#license)
+
 
 ## User Story
 
@@ -42,8 +54,11 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Alt text](../assets/images/Horiseon Mock-up Screenshot.png "Horiseon Mock-up Screenshot")
+![alt text](assets/images/Horiseon-Mock-up-Screenshot.png "Horiseon Mock-up Screenshot")
 
 ## Link to Deployed Application
 
+[Deployed Application](https://guides.github.com/features/mastering-markdown/).
 
+---
+© 2022 xndroli. Confidential and Proprietary. All Rights Reserved.
