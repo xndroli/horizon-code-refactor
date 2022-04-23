@@ -10,7 +10,7 @@ To impress the imaginary client for this Challenge, I went the extra mile and im
 
 It was essential to read the acceptance criteria for guidance and clarity on what the client expects, especially when asked to make a judgment call, such as when an icon needs an accessible alt tag and when it is okay to leave it blank.
 
-[See Deployed Application](https://guides.github.com/features/mastering-markdown/)
+[See Deployed Application](https://xndroli.github.io/horizon-code-refactor/)
 
 ## Table of Contents
 
@@ -59,7 +59,7 @@ I submitted the following for review:
 
 ## Link to Deployed Application
 
-[Deployed Application](https://guides.github.com/features/mastering-markdown/)
+[Deployed Application](https://xndroli.github.io/horizon-code-refactor/)
 
 ---
 © 2022 xndroli. Confidential and Proprietary. All Rights Reserved.
