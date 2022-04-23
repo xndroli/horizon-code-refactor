@@ -42,7 +42,7 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Alt text](../css/images/Horiseon Mock-up Screenshot.png "Horiseon Mock-up Screenshot")
+![Alt text](../assets/images/Horiseon Mock-up Screenshot.png "Horiseon Mock-up Screenshot")
 
 ## Link to Deployed Application
 
