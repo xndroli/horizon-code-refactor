@@ -42,7 +42,7 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Alt text](https://courses.bootcampspot.com/courses/1379/files/1499795/preview "Horiseon Mock-up Screenshot")
+![Alt text](/../assets/css/images/Horiseon Mock-up Screenshot.jpg "Horiseon Mock-up Screenshot")
 
 ## Lint to Deployed Application
 
