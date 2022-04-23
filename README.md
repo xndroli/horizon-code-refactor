@@ -10,14 +10,15 @@ To impress the imaginary client for this Challenge, I went the extra mile and im
 
 It was essential to read the acceptance criteria for guidance and clarity on what the client expects, especially when asked to make a judgment call, such as when an icon needs an accessible alt tag and when it is okay to leave it blank.
 
+[Deployed Application](https://guides.github.com/features/mastering-markdown/).
 
 ## Table of Contents
 
-* [User-Story](#User Story)
-* [Acceptance-Criteria](#Acceptance Criteria)
+* [User-Story](#User-Story)
+* [Acceptance-Criteria](#Acceptance-Criteria)
 * [Review](#Review)
 * [Screenshot](#Screenshot)
-* [License](#license)
+* [Link-to-Deployed-Application](#Link-to-Deployed-Application)
 
 
 ## User Story
@@ -54,7 +55,7 @@ I submitted the following for review:
 
 ## Screenshot
 
-![alt text](assets/images/Horiseon-Mock-up-Screenshot.png "Horiseon Mock-up Screenshot")
+![Horiseon](https://github.com/xndroli/horizon-code-refactor/blob/main/assets/images/Horiseon%20Mock-up%20Screenshot.png "Horiseon Mock-up Screenshot")
 
 ## Link to Deployed Application
 
