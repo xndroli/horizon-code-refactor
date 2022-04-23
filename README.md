@@ -42,8 +42,8 @@ I submitted the following for review:
 
 ## Screenshot
 
-![Alt text](/../css/images/Horiseon Mock-up Screenshot.jpg "Horiseon Mock-up Screenshot")
+[![Alt text](../css/images/Horiseon Mock-up Screenshot.jpg "Horiseon Mock-up Screenshot")]
 
-## Lint to Deployed Application
+## Link to Deployed Application
 
 
